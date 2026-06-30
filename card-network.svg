@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360">
+  <rect width="700" height="360" fill="#06080d"/><rect width="124" height="54" fill="#b86d00"/><text x="15" y="35" font-family="Arial" font-size="18" font-weight="700" fill="#fff">COURSE</text>
+  <g fill="none" stroke-width="3" opacity=".85">
+    <path d="M0 130h98v65h80V80h85v165h72V40h90v245h88V120h67v170h120" stroke="#1d79ff"/>
+    <path d="M35 300h100V190h80v70h88V130h92v80h88V90h87v110h100" stroke="#ff6e00"/>
+    <path d="M0 85h150v80h100v-48h96v90h129V65h70v95h155" stroke="#24ce71"/>
+    <path d="M82 44h120v240h80v-170h85v110h80v-70h90v145" stroke="#ff2b91"/>
+  </g>
+  <g fill="#14151b" stroke="#555" opacity=".8"><rect x="215" y="82" width="92" height="58"/><rect x="410" y="126" width="128" height="88"/><rect x="84" y="204" width="104" height="58"/><rect x="555" y="230" width="82" height="58"/></g>
+</svg>

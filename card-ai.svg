@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360">
+  <rect width="700" height="360" fill="#072339"/><rect width="124" height="54" fill="#b86d00"/><text x="15" y="35" font-family="Arial" font-size="18" font-weight="700" fill="#fff">COURSE</text>
+  <g transform="translate(80 72)" fill="none" stroke-linecap="round" stroke-width="7">
+    <path d="M0 103C118 80 199 26 298 34c97 8 157 62 254 44" stroke="#ef7373"/>
+    <path d="M0 131c105-18 181-53 275-47 107 8 170 45 277 22" stroke="#f4aa62"/>
+    <path d="M0 158c104-12 178-31 270-29 110 3 178 28 284 10" stroke="#f6d685"/>
+    <path d="M0 185c112-6 181-14 269-10 105 5 180 14 283 3" stroke="#70d2c1"/>
+    <path d="M0 211c123 0 199 16 280 20 111 6 181-14 271 20" stroke="#4aa0d5"/>
+    <path d="M0 236c119 13 188 44 280 46 102 2 180-45 272-20" stroke="#9575cd"/>
+  </g>
+  <g fill="#f7efdb"><circle cx="280" cy="108" r="5"/><circle cx="314" cy="129" r="5"/><circle cx="343" cy="158" r="5"/><circle cx="344" cy="200" r="5"/><circle cx="315" cy="230" r="5"/><circle cx="281" cy="250" r="5"/></g>
+</svg>

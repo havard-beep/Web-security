@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#061522"/><stop offset="1" stop-color="#082b50"/></linearGradient></defs>
+  <rect width="700" height="360" fill="url(#g)"/>
+  <rect width="124" height="54" fill="#b86d00"/><text x="15" y="35" font-family="Arial" font-size="18" font-weight="700" fill="#fff">COURSE</text>
+  <g opacity=".45" font-family="monospace" font-size="16" fill="#005b90">
+    <text x="120" y="52">101010100101010101011001010101</text><text x="125" y="86">001001010101001001001101101010</text><text x="110" y="120">010101001101010101100101010110</text><text x="134" y="154">101011010110010101010010101010</text><text x="118" y="188">010101001101010101100101010110</text><text x="132" y="222">101011010110010101010010101010</text>
+  </g>
+  <rect x="305" y="110" width="90" height="115" rx="6" fill="#ffd86c"/><rect x="286" y="80" width="128" height="85" rx="45" fill="none" stroke="#d8e8ff" stroke-width="20"/><circle cx="350" cy="166" r="15" fill="#2981bd"/><rect x="343" y="178" width="14" height="39" fill="#2981bd"/>
+</svg>
